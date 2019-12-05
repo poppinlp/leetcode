@@ -13,6 +13,10 @@ leetcode 平台问题的解题思路和代码。
 
 ## Contest
 
+### Weekly Contest 165
+
+- [1275. Find Winner on a Tic Tac Toe Game](./posts/1275.md)
+
 ### Weekly Contest 162
 
 - [1252. Cells with Odd Values in a Matrix](./posts/1252.md)
