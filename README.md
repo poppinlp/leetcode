@@ -12,8 +12,7 @@ leetcode 平台问题的解题思路和代码。
 如果你喜欢或者对你有帮助，辛苦 Star 一下 >.<  
 如果你发现有任何问题，欢迎 PR 修正。
 
-持续施工中，大量内容未搬迁。[个人 leetcode profile 页面](https://leetcode.com/poppinlp/)。
-以后应该会直接产出基于 markdown 生成的网页内容，方便浏览。
+持续施工中，大量内容还未搬迁过来。以后应该会直接产出基于 markdown 生成的网页内容，方便浏览。
 
 ## Contest
 
