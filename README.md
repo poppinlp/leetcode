@@ -1,6 +1,10 @@
-# leetcode
+# 宝宝也能看懂的 LEETCODE 题解
 
-leetcode 平台问题的解题思路和代码。
+Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 leetcode 题解。
+
+什么？你不是宝宝？哼，本小猪才是宝宝 >.<
+
+## 亮点
 
 - 详细解释，通俗易懂
 - 包含思路或优化过程
@@ -8,13 +12,15 @@ leetcode 平台问题的解题思路和代码。
 - 代码基于 JS ES2015+ 实现
 - 性能 beats 80% 以上
 
-非算法大佬，所以可能并不是最优解。不过从提交后运行耗时来看，还不算太差。  
+## 关于本猪
+
+本小猪非算法大佬，所以可能并不是最优解。不过从提交后运行耗时来看，应该不算太差。  
 如果你喜欢或者对你有帮助，辛苦 Star 一下 >.<  
 如果你发现有任何问题，欢迎 PR 修正。
 
 持续施工中，大量内容还未搬迁过来。以后应该会直接产出基于 markdown 生成的网页内容，方便浏览。
 
-## Contest
+## LEETCODE 周赛
 
 ### Weekly Contest 168
 
@@ -23,7 +29,7 @@ leetcode 平台问题的解题思路和代码。
 - [1297. Maximum Number of Occurrences of a Substring](./posts/1297.md)
 - [1298. Maximum Candies You Can Get from Boxes](./posts/1298.md)
 
-## Topic
+## 主题分类
 
 ### Top 100 Linked Questions
 
@@ -33,6 +39,6 @@ leetcode 平台问题的解题思路和代码。
 
 - TODO
 
-## Tag
+## 标签分类
 
 - TODO
