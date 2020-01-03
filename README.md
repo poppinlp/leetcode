@@ -22,6 +22,13 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 
 ## LEETCODE 周赛
 
+### Weekly Contest 169
+
+- [1304. Find N Unique Integers Sum up to Zero](./posts/1304.md)
+- [1305. All Elements in Two Binary Search Trees](./posts/1305.md)
+- [1306. Jump Game III](./posts/1306.md)
+- [1307. Verbal Arithmetic Puzzle](./posts/1307.md)
+
 ### Weekly Contest 168
 
 - [1295. Find Numbers with Even Number of Digits](./posts/1295.md)
