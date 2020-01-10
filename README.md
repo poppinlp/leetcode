@@ -22,6 +22,13 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 
 ## LEETCODE 周赛
 
+### Weekly Contest 170
+
+- [1309. 解码字母到整数映射](./posts/1309.md)
+- [1310. 子数组异或查询](./posts/1310.md)
+- [1311. 获取你好友已观看的视频](./posts/1311.md)
+- [1312. 让字符串成为回文串的最少插入次数](./posts/1312.md)
+
 ### Weekly Contest 169
 
 - [1304. Find N Unique Integers Sum up to Zero](./posts/1304.md)
