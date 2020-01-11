@@ -31,17 +31,17 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 
 ### Weekly Contest 169
 
-- [1304. Find N Unique Integers Sum up to Zero](./posts/1304.md)
-- [1305. All Elements in Two Binary Search Trees](./posts/1305.md)
+- [1304. 和为零的N个唯一整数](./posts/1304.md)
+- [1305. 两棵二叉搜索树中的所有元素](./posts/1305.md)
 - [1306. 跳跃游戏 III](./posts/1306.md)
 - [1307. 口算难题](./posts/1307.md)
 
 ### Weekly Contest 168
 
-- [1295. Find Numbers with Even Number of Digits](./posts/1295.md)
-- [1296. Divide Array in Sets of K Consecutive Numbers](./posts/1296.md)
-- [1297. Maximum Number of Occurrences of a Substring](./posts/1297.md)
-- [1298. Maximum Candies You Can Get from Boxes](./posts/1298.md)
+- [1295. 统计位数为偶数的数字](./posts/1295.md)
+- [1296. 划分数组为连续数字的集合](./posts/1296.md)
+- [1297. 子串的最大出现次数](./posts/1297.md)
+- [1298. 你能从盒子里获得的最大糖果数](./posts/1298.md)
 
 ## 主题分类
 
