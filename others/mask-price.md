@@ -73,6 +73,10 @@ Hi 大家好，我是张小猪。今天小猪不做 leetcode 题解啦，而是�
 
 ![](../resources/code.png)
 
+## 后记
+
+写完文章的第二天早上一醒来，发现武汉被封城了。哎，感到莫名的难过。加油武汉，天佑中华！
+
 ## 相关链接
 
 - [我的 segmentfault 专栏](https://segmentfault.com/blog/zxzfbz)
