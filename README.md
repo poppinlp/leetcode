@@ -22,6 +22,10 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 
 ## LEETCODE 周赛
 
+### Weekly Contest 173
+
+- [1332. 删除回文子序列](./posts/1332.md)
+
 ### Weekly Contest 172
 
 - [1323. 6 和 9 组成的最大数字](./posts/1323.md)
