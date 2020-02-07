@@ -1,6 +1,6 @@
 # 除了 User Agent 我们还需要 Client Hints
 
-Hi 大家好，我是张小猪，今天我们来聊聊一个具体的技术点 -- User Agent 和 Client Hints。
+Hi 大家好，我是张小猪。今天我们来聊聊一个具体的技术点 -- User Agent 和 Client Hints。
 
 相信小伙伴们在做用户信息的收集和统计的时候，很可能会见过这样一个名字 User Agent。它的作用和使用方式相信可能小伙伴们已经很熟悉啦，那么 Client Hints 又是什么呢？别急，且听小猪慢慢哼唧。
 
