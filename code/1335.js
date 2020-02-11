@@ -1,0 +1,2 @@
+const minDifficulty = (jobDifficulty, d) => {
+};
