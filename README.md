@@ -22,6 +22,10 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 
 ## LEETCODE 周赛
 
+### Weekly Contest 174
+
+- [1337. 方阵中战斗力最弱的 K 行](./posts/1337.md)
+
 ### Weekly Contest 173
 
 - [1332. 删除回文子序列](./posts/1332.md)

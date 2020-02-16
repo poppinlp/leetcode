@@ -28,7 +28,7 @@ Hi 大家好，我是张小猪。
 sudo apt install shadowsocks
 ```
 
-再按下回车一小段时间之后，小猪发现自己的 ubuntu 里多出来了一个奇怪的应用。并且，除此之外，在 `/etc/shadowsocks/` 中还出现了一个叫做 `config.json` 的文件。内容如下：
+再按下回车一小段时间之后，小猪发现自己的系统里多出来了一个奇怪的应用。并且，除此之外，在 `/etc/shadowsocks/` 中还出现了一个叫做 `config.json` 的文件。内容如下：
 
 ```json
 {
@@ -51,11 +51,13 @@ sudo apt install shadowsocks
 alias fkgfw="nohup sslocal -c /etc/shadowsocks/config.json 1>/dev/null &"
 ```
 
-这究竟是什么呢？小猪百思不得其解。只是，在执行 `fkgfw` 之后，似乎油管上的去了...难道这就是神灵的恩泽？
+这究竟是什么呢？小猪百思不得其解。只是，在执行 `fkgfw` 之后，似乎小猪也能骑着企鹅看世界啦！至于那些想爬窗户或者吃着苹果的小伙伴们，小猪听说都不需要输入命令，图形界面配置参数即可...难道这就是神灵的恩泽？
 
 ## 下一个故事呢
 
-这就不得不提到，2020 年真是开年不利呀。又是疫情，又是科比，又是...梯子不好用啦 T_T
+这就不得不提到，2020 年真是开年不利呀。又是疫情，又是科比，又是...装置不好用啦 T_T
+
+也许是 shadowsocks 这个管道逐渐被壁之教的人熟知了。
 
 ## How to install v2ray
 
