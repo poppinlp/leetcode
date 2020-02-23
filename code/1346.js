@@ -1,4 +1,13 @@
 const checkIfExist = arr => {
+  for (let i = 0; i < arr.length; ++i) {
+    for (let j = i + 1; j < arr.length; ++j) {
+      if (arr[j] === arr[i] << 1 || arr[j] === arr[i] / 2) return true;
+    }
+  }
+  return false;
+};
+
+const checkIfExist = arr => {
   const neg = new Uint8Array(1000);
   const pos = new Uint8Array(1000);
   for (const val of arr) {
@@ -18,5 +27,3 @@ const checkIfExist = arr => {
   }
   return false;
 };
-
-console.log(checkIfExist([-10,12,-20,-8,15]))
