@@ -6,12 +6,9 @@ Hi 大家好，我是张小猪。不务正业了一段时间之后，小猪又�
 
 不过，自己慢慢做主题是不可能做的，这辈子不可能做的。但是网上那些社区就不同啦，进了里面去，个个都是人才，说话又好听，超喜欢在里面的感觉~
 
-这里我就先分享一下我调教的成品吧：
+这里我就先分享一下我调教的成品吧：（为了把 gif 弄到 4M 以内又不是太糊，尽力了）
 
-<video id="windows-theme" controls="" preload="none" poster="../resources/windows-theme.jpg">
-  <source id="windows-theme-mp4" src="../resources/windows-theme.mp4" type="video/mp4">
-  <p>小猪的 windows 桌面</p>
-</video>
+![](../resources/windows-theme.gif)
 
 ## 如何实现
 
