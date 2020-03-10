@@ -1,2 +1,0 @@
-const maxStudents = seats => {
-};
