@@ -33,7 +33,7 @@ npm i bv2av
 当然还有更简单的方式，可以直接通过这个模块自带的 CLI 来执行命令即可。例如：
 
 ```shell
-./node_modules/.bin/bv2av --bv=BV13t411k7xS --all
+npx bv2av --bv=BV13t411k7xS --all
 ```
 
 什么？还是太复杂了？或者没有 nodejs 环境怎么办？别着急，小猪也准备好了网页端的使用方式。只需要打开这个链接 [https://poppinlp.com/bv2av/](https://poppinlp.com/bv2av/)，然后把 bv 号粘贴进去，再点击一下查询就可以啦。小猪是不是特别的贴心 嘤嘤嘤 >.<
