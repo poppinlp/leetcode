@@ -24,17 +24,13 @@
 
 用法很简单，如果你的电脑上有 nodejs 环境的话，只需要通过 npm 或者 yarn 来安装这个模块即可。例如：
 
-```shell
-npm i bv2av
-```
+![](../resources/bv2av-3.png)
 
 然后我们就可以通过 nodejs 的代码来引入这个模块以供后续使用。关于这种方式这里就不展开啦，感兴趣的小伙伴可以自行去看看 repo 里的内容。
 
 当然还有更简单的方式，可以直接通过这个模块自带的 CLI 来执行命令即可。例如：
 
-```shell
-npx bv2av --bv=BV13t411k7xS --all
-```
+![](../resources/bv2av-4.png)
 
 什么？还是太复杂了？或者没有 nodejs 环境怎么办？别着急，小猪也准备好了网页端的使用方式。只需要打开这个链接 [https://poppinlp.com/bv2av/](https://poppinlp.com/bv2av/)，然后把 bv 号粘贴进去，再点击一下查询就可以啦。小猪是不是特别的贴心 嘤嘤嘤 >.<
 
