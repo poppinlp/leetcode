@@ -20,6 +20,14 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 
 持续施工中，大量内容还未搬迁过来。以后应该会直接产出基于 markdown 生成的网页内容，方便浏览。
 
+## 活动
+
+### 30-Day LeetCoding Challenge
+
+活动地址在[这里](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)（如果被重定向回中文站了，去掉域名里的 `-cn` 即可）。
+
+- 4 月 1 号：[136. 只出现一次的数字](./30-Day%20LeetCoding%20Challenge/1.md)
+
 ## LEETCODE 周赛
 
 ### Weekly Contest 175
@@ -76,17 +84,3 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 - [1296. 划分数组为连续数字的集合](./posts/1296.md)
 - [1297. 子串的最大出现次数](./posts/1297.md)
 - [1298. 你能从盒子里获得的最大糖果数](./posts/1298.md)
-
-## 主题分类
-
-### Top 100 Linked Questions
-
-- TODO
-
-### Top Interview Questions
-
-- TODO
-
-## 标签分类
-
-- TODO
