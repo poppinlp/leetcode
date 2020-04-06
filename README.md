@@ -30,6 +30,7 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 - 4 月 2 号：[202. 快乐数](./30-Day%20LeetCoding%20Challenge/2.md)
 - 4 月 3 号：[53. 最大子序和](./30-Day%20LeetCoding%20Challenge/3.md)
 - 4 月 4 号：[283. 移动零](./30-Day%20LeetCoding%20Challenge/4.md)
+- 4 月 5 号：[122. 买卖股票的最佳时机 II](./30-Day%20LeetCoding%20Challenge/5.md)
 
 ## LEETCODE 周赛
 
