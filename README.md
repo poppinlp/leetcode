@@ -34,6 +34,7 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 - 4 月 6 号：[49. 字母异位词分组](./30-Day%20LeetCoding%20Challenge/6.md)
 - 4 月 7 号：[新题. Counting Elements](./30-Day%20LeetCoding%20Challenge/7.md)
 - 4 月 8 号：[876. 链表的中间结点](./30-Day%20LeetCoding%20Challenge/8.md)
+- 4 月 9 号：[844. 比较含退格的字符串](./30-Day%20LeetCoding%20Challenge/9.md)
 
 ## LEETCODE 周赛
 
