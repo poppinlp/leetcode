@@ -36,6 +36,7 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 - 4 月 8 号：[876. 链表的中间结点](./30-Day%20LeetCoding%20Challenge/8.md)
 - 4 月 9 号：[844. 比较含退格的字符串](./30-Day%20LeetCoding%20Challenge/9.md)
 - 4 月 10 号：[155. 最小栈](./30-Day%20LeetCoding%20Challenge/10.md)
+- 4 月 11 号：[543. 二叉树的直径](./30-Day%20LeetCoding%20Challenge/11.md)
 
 ## LEETCODE 周赛
 
