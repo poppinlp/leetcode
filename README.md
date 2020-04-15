@@ -37,6 +37,7 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 - 4 月 9 号：[844. 比较含退格的字符串](./30-Day%20LeetCoding%20Challenge/9.md)
 - 4 月 10 号：[155. 最小栈](./30-Day%20LeetCoding%20Challenge/10.md)
 - 4 月 11 号：[543. 二叉树的直径](./30-Day%20LeetCoding%20Challenge/11.md)
+- 4 月 12 号：[1046. 最后一块石头的重量](./30-Day%20LeetCoding%20Challenge/12.md)
 
 ## LEETCODE 周赛
 
