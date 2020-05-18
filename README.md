@@ -2,7 +2,7 @@
 
 Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 leetcode 题解。
 
-什么？你不是宝宝？哼，本小猪才是宝宝 >.<
+什么？你不是宝宝？哼，不管不管 >.<
 
 ## 亮点
 
@@ -11,33 +11,15 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 - 基于每周比赛、专题分类和标签
 - 代码基于 JS ES2015+ 实现
 - 性能 beats 90% 以上
+- 不包含订阅才能解锁的题目（其实就是我没订阅 T_T
 
 ## 关于本猪
 
 本小猪非算法大佬，所以可能并不是最优解。不过从提交后运行耗时来看，应该不算太差。  
-如果你喜欢或者对你有帮助，辛苦 Star 一下 >.<  
+如果你喜欢或者对你有帮助，那就 Star 一下吧  
 如果你发现有任何问题，欢迎 PR 修正。
 
 持续施工中，大量内容还未搬迁过来。以后应该会直接产出基于 markdown 生成的网页内容，方便浏览。
-
-## 活动
-
-### 30-Day LeetCoding Challenge
-
-活动地址在[这里](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)（如果被重定向回中文站了，去掉域名里的 `-cn` 即可）。
-
-- 4 月 1 号：[136. 只出现一次的数字](./30-Day%20LeetCoding%20Challenge/1.md)
-- 4 月 2 号：[202. 快乐数](./30-Day%20LeetCoding%20Challenge/2.md)
-- 4 月 3 号：[53. 最大子序和](./30-Day%20LeetCoding%20Challenge/3.md)
-- 4 月 4 号：[283. 移动零](./30-Day%20LeetCoding%20Challenge/4.md)
-- 4 月 5 号：[122. 买卖股票的最佳时机 II](./30-Day%20LeetCoding%20Challenge/5.md)
-- 4 月 6 号：[49. 字母异位词分组](./30-Day%20LeetCoding%20Challenge/6.md)
-- 4 月 7 号：[新题. Counting Elements](./30-Day%20LeetCoding%20Challenge/7.md)
-- 4 月 8 号：[876. 链表的中间结点](./30-Day%20LeetCoding%20Challenge/8.md)
-- 4 月 9 号：[844. 比较含退格的字符串](./30-Day%20LeetCoding%20Challenge/9.md)
-- 4 月 10 号：[155. 最小栈](./30-Day%20LeetCoding%20Challenge/10.md)
-- 4 月 11 号：[543. 二叉树的直径](./30-Day%20LeetCoding%20Challenge/11.md)
-- 4 月 12 号：[1046. 最后一块石头的重量](./30-Day%20LeetCoding%20Challenge/12.md)
 
 ## LEETCODE 周赛
 
@@ -95,3 +77,35 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 - [1296. 划分数组为连续数字的集合](./posts/1296.md)
 - [1297. 子串的最大出现次数](./posts/1297.md)
 - [1298. 你能从盒子里获得的最大糖果数](./posts/1298.md)
+
+## 活动
+
+### 30-Day LeetCoding Challenge
+
+活动地址在[这里](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)（如果被重定向回中文站了，去掉域名里的 `-cn` 即可）。
+
+- 4 月 1 号：[136. 只出现一次的数字](./30-Day%20LeetCoding%20Challenge/1.md)
+- 4 月 2 号：[202. 快乐数](./30-Day%20LeetCoding%20Challenge/2.md)
+- 4 月 3 号：[53. 最大子序和](./30-Day%20LeetCoding%20Challenge/3.md)
+- 4 月 4 号：[283. 移动零](./30-Day%20LeetCoding%20Challenge/4.md)
+- 4 月 5 号：[122. 买卖股票的最佳时机 II](./30-Day%20LeetCoding%20Challenge/5.md)
+- 4 月 6 号：[49. 字母异位词分组](./30-Day%20LeetCoding%20Challenge/6.md)
+- 4 月 7 号：[新题. Counting Elements](./30-Day%20LeetCoding%20Challenge/7.md)
+- 4 月 8 号：[876. 链表的中间结点](./30-Day%20LeetCoding%20Challenge/8.md)
+- 4 月 9 号：[844. 比较含退格的字符串](./30-Day%20LeetCoding%20Challenge/9.md)
+- 4 月 10 号：[155. 最小栈](./30-Day%20LeetCoding%20Challenge/10.md)
+- 4 月 11 号：[543. 二叉树的直径](./30-Day%20LeetCoding%20Challenge/11.md)
+- 4 月 12 号：[1046. 最后一块石头的重量](./30-Day%20LeetCoding%20Challenge/12.md)
+
+## 专题
+
+### Sliding Window
+
+以下列表是[Sliding Window 标签列表](https://leetcode.com/tag/sliding-window/)根据难度排序的结果：
+
+- [LOCKED] 1176. Diet Plan Performance
+- [LOCKED] 1100. Find K-Length Substrings With No Repeated Characters
+- [LOCKED] 1151. Minimum Swaps to Group All 1's Together
+- [1004. Max Consecutive Ones III](./code/1004.js)
+- [1208. Get Equal Substrings Within Budget](./code/1208.js)
+- [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./code/1438.js)

@@ -1,0 +1,2 @@
+const countTriplets = arr => {
+};
