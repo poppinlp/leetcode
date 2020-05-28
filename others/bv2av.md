@@ -50,3 +50,5 @@
 - [bv2av repo](https://github.com/poppinlp/bv2av)
 - [我的 segmentfault 专栏](https://segmentfault.com/blog/zxzfbz)
 - [我的知乎专栏](https://zhuanlan.zhihu.com/zxzfbz)
+
+![我的微信公众号：张小猪粉鼻子](../resources/qrcode_green.jpeg)
