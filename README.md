@@ -21,6 +21,41 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 
 持续施工中，大量内容还未搬迁过来。以后应该会直接产出基于 markdown 生成的网页内容，方便浏览。
 
+## 专题
+
+### Linked List
+
+以下列表是[Linked List 标签列表](https://leetcode.com/tag/linked-list/)根据难度排序的结果：
+
+- 1290. Convert Binary Number in a Linked List to Integer
+  - [代码 | code](./code/1290.js)
+  - [中文题解] TBD
+  - [leetcode post]()
+- [LOCKED] 1474. Delete N Nodes After M Nodes of a Linked List
+- 876. Middle of the Linked List
+  - [代码 | code](./code/876.js)
+  - [中文题解] TBD
+  - [leetcode post]()
+### String
+
+以下列表是[Linked List 标签列表](https://leetcode.com/tag/string/)根据难度排序的结果：
+
+- 1790. 仅执行一次字符串交换能否使两个字符串相等 (Check if One String Swap Can Make Strings Equal)
+  - [代码 | code](./code/1790.js)
+  - [中文题解](./posts/1790.md)
+  - [leetcode post](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/discuss/1111937/JavaScript-Easy-to-understand-2-solutions)
+
+### Sliding Window
+
+以下列表是[Sliding Window 标签列表](https://leetcode.com/tag/sliding-window/)根据难度排序的结果：
+
+- [LOCKED] 1176. Diet Plan Performance
+- [LOCKED] 1100. Find K-Length Substrings With No Repeated Characters
+- [LOCKED] 1151. Minimum Swaps to Group All 1's Together
+- [1004. Max Consecutive Ones III](./code/1004.js)
+- [1208. Get Equal Substrings Within Budget](./code/1208.js)
+- [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./code/1438.js)
+
 ## LEETCODE 周赛
 
 ### Weekly Contest 175
@@ -96,16 +131,3 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 - 4 月 10 号：[155. 最小栈](./30-Day%20LeetCoding%20Challenge/10.md)
 - 4 月 11 号：[543. 二叉树的直径](./30-Day%20LeetCoding%20Challenge/11.md)
 - 4 月 12 号：[1046. 最后一块石头的重量](./30-Day%20LeetCoding%20Challenge/12.md)
-
-## 专题
-
-### Sliding Window
-
-以下列表是[Sliding Window 标签列表](https://leetcode.com/tag/sliding-window/)根据难度排序的结果：
-
-- [LOCKED] 1176. Diet Plan Performance
-- [LOCKED] 1100. Find K-Length Substrings With No Repeated Characters
-- [LOCKED] 1151. Minimum Swaps to Group All 1's Together
-- [1004. Max Consecutive Ones III](./code/1004.js)
-- [1208. Get Equal Substrings Within Budget](./code/1208.js)
-- [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./code/1438.js)
