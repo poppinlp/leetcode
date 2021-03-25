@@ -1,0 +1,2 @@
+const countRestrictedPaths = (n, edges) => {
+};
