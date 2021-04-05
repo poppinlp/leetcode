@@ -1,0 +1,2 @@
+const maximumWealth = (accounts) => {
+};
