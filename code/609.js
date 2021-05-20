@@ -1,0 +1,2 @@
+const findDuplicate = (paths) => {
+};

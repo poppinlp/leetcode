@@ -27,12 +27,12 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 
 以下列表是[Linked List 标签列表](https://leetcode.com/tag/linked-list/)根据难度排序的结果：
 
-- 1290. Convert Binary Number in a Linked List to Integer
+- 1290\. Convert Binary Number in a Linked List to Integer
   - [代码 | code](./code/1290.js)
   - [中文题解] TBD
   - [leetcode post]()
-- [LOCKED] 1474. Delete N Nodes After M Nodes of a Linked List
-- 876. Middle of the Linked List
+- [LOCKED] 1474\. Delete N Nodes After M Nodes of a Linked List
+- 876\. Middle of the Linked List
   - [代码 | code](./code/876.js)
   - [中文题解] TBD
   - [leetcode post]()
@@ -40,7 +40,7 @@ Hi 大家好，我是张小猪。欢迎来到『宝宝也能看懂』系列之 l
 
 以下列表是[Linked List 标签列表](https://leetcode.com/tag/string/)根据难度排序的结果：
 
-- 1790. 仅执行一次字符串交换能否使两个字符串相等 (Check if One String Swap Can Make Strings Equal)
+- 1790\. 仅执行一次字符串交换能否使两个字符串相等 (Check if One String Swap Can Make Strings Equal)
   - [代码 | code](./code/1790.js)
   - [中文题解](./posts/1790.md)
   - [leetcode post](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/discuss/1111937/JavaScript-Easy-to-understand-2-solutions)
