@@ -15,4 +15,3 @@ const maxCount = (m, n, ops) => ops.reduce((prev, op) => (
   n > op[1] && (n = op[1]),
   m * n
 ), m * n);
-
