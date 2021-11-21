@@ -1,3 +1,4 @@
+// DFS
 const minDifficulty = (jobDifficulty, d) => {
   const LEN = jobDifficulty.length;
   if (LEN < d) return -1;
@@ -26,10 +27,13 @@ const minDifficulty = (jobDifficulty, d) => {
   }
 };
 
+// DP - 2D
 const minDifficulty = (jobDifficulty, d) => {
   const LEN = jobDifficulty.length;
   if (LEN < d) return -1;
-  const dp = Array.from({ length: LEN }, () => new Uint16Array(d + 1).fill(10000));
+  const dp = Array.from({ length: LEN }, () =>
+    new Uint16Array(d + 1).fill(10000)
+  );
 
   for (let i = LEN - 1, curMax = 0; i >= 0; --i) {
     jobDifficulty[i] > curMax && (curMax = jobDifficulty[i]);
@@ -43,12 +47,15 @@ const minDifficulty = (jobDifficulty, d) => {
         jobDifficulty[k] > max && (max = jobDifficulty[k]);
         dp[j][i] = Math.min(dp[j][i], dp[k + 1][i - 1] + max);
       }
+      console.table(dp);
+      debugger;
     }
   }
 
   return dp[0][d];
 };
 
+// DP - 1D
 const minDifficulty = (jobDifficulty, d) => {
   const LEN = jobDifficulty.length;
   if (LEN < d) return -1;
@@ -72,6 +79,7 @@ const minDifficulty = (jobDifficulty, d) => {
   return dp[0];
 };
 
+// DP - monotonic stack
 const minDifficulty = (jobDifficulty, d) => {
   const LEN = jobDifficulty.length;
   if (LEN < d) return -1;
@@ -88,7 +96,10 @@ const minDifficulty = (jobDifficulty, d) => {
     for (let j = i; j < LEN; ++j) {
       let min = old;
       old = dp[j];
-      while (stack.length && jobDifficulty[stack[stack.length - 1]] <= jobDifficulty[j]) {
+      while (
+        stack.length &&
+        jobDifficulty[stack[stack.length - 1]] <= jobDifficulty[j]
+      ) {
         const top = stack.pop();
         min = Math.min(min, dp[top] - jobDifficulty[top]);
       }

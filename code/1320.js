@@ -1,3 +1,4 @@
+// DP - 2D
 const minimumDistance = word => {
   const LEN = word.length;
   const dp = new Array(LEN - 1);
@@ -32,6 +33,7 @@ const minimumDistance = word => {
   }
 };
 
+// DP - 1D
 const minimumDistance = word => {
   const LEN = word.length;
   const dp = new Uint16Array(LEN - 1);
@@ -60,6 +62,7 @@ const minimumDistance = word => {
   }
 };
 
+// without sum array
 const minimumDistance = word => {
   const LEN = word.length;
   const dp = new Uint16Array(LEN - 1);
@@ -84,20 +87,3 @@ const minimumDistance = word => {
     return Math.abs((x % 6) - (y % 6)) + Math.abs(((x / 6) << 0) - ((y / 6) << 0));
   }
 };
-
-[
-// "CAKE",
-// "HAPPY",
-// "NEW",
-// "YEAR",
-// "LEETCODE",
-// "ZKNB",
-"ZKNBZ",
-// "OPVUWZLCKTDPSUKGHAXIDWHLZFKNBDZEWHBSURTVCADUGTSDMCLDBTAGFWDPGXZBVARNTDICHCUJLNFBQOBTDWMGILXPSFWVGYBZVFFKQIDTOVFAPVNSQJULMVIERWAOXCKXBRI"
-// ,"VGTCBCZIJRKDQHYFCNJJQESQUGRDNURMXYZIJOLSUEFDWDMMSOERVJLUPXNGPPWQKPUBOJEXPBTGALPMAQCVCVXVMALBDTAIUWJXHEYSJGDNOWKMFKNUVNEOWEQKEGFOLZMNZPMXHZGOGSWBMBHUCFLBXUVFHTJTCWQYJYLNOBUWQVURXNSOPIWPGKIBBBFLAJUA"
-// ,"VSWYJVYGYQQKMIGDSKZHSVXRVLFEKXASBSELLJUJKPZMTNFAZESBOEKAXPVVYIXTGCRNIFQFCVUFSDQUZRTMYNIJJANYWIIRQRKKGWZNZEAYQEZVWZSMLOBRNUTZZYHALQFVGULUWPAXXHSHIFYNCSOHXWOQZZWDGFOCNUMIINYYLTKCJAPAYIGYMMN"
-].forEach((data, idx) => {
-  // console.time(idx);
-  console.log(minimumDistance(data))
-  // console.timeEnd(idx);
-});
