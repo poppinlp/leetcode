@@ -1,18 +1,18 @@
+// using map
 const frequencySort = (nums) => {
   const freq = {};
-  const result = [];
   for (const num of nums) {
     freq[num] = (freq[num] || 0) + 1;
   }
-  freq.sort((a, b) =>
-    b.count === a.count ? a.val - b.val : b.count - a.count
-  );
-  for (const { val, count } of freq) {
-    for (let i = 0; i < count; ++i) {
-      result.push(val);
-    }
-  }
-  return result;
+  return nums.sort((a, b) => freq[a] === freq[b] ? b - a : freq[a] - freq[b]);
 };
 
-frequencySort([1,1,2,2,2,3]);
+// using fixed-length array
+const frequencySort = (nums) => {
+  const freq = new Uint8Array(201);
+  const OFFSET = 100;
+  for (const num of nums) {
+    ++freq[num + OFFSET];
+  }
+  return nums.sort((a, b, a2 = a + OFFSET, b2 = b + OFFSET) => freq[a2] === freq[b2] ? b - a : freq[a2] - freq[b2]);
+};
